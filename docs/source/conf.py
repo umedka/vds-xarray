@@ -12,7 +12,7 @@ sys.path.insert(0, os.path.abspath("../.."))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "vdsxarray"
-copyright = "2025, Guillermo Vargas"
+copyright = "2025, Shell"
 author = "Guillermo Vargas"
 release = "1.0.1"
 version = "1.0.1"
@@ -136,7 +136,7 @@ latex_documents = [
         "index",
         "vdsxarray.tex",
         "vdsxarray Documentation",
-        "Guillermo Vargas",
+        "Shell",
         "manual",
     ),
 ]

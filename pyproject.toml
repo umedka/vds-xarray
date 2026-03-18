@@ -5,10 +5,10 @@ description = "An xarray backend for reading VDS (Volume Data Store) seismic dat
 readme = "README.md"
 license = {file = "LICENSE"}
 authors = [
-    { name = "Guillermo Vargas", email = "gavargas22@gmail.com" }
+    { name = "Guillermo Vargas", email = "" }
 ]
 maintainers = [
-    { name = "Guillermo Vargas", email = "gavargas22@gmail.com" }
+    { name = "Shell OSS", email = "" }
 ]
 keywords = ["xarray", "vds", "seismic", "geophysics", "voluum", "data", "backend"]
 requires-python = ">=3.9,<3.12"
